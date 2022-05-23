@@ -4,17 +4,17 @@
 }
 
 ::-webkit-scrollbar {
-    width: 21px;
+    width: 15px;
 }
 body{
-    display: flex;
+   display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         height: 100vh;
         padding-left: 50px;
-        /*background: #23b499;*/
-       background-image: url("bouquet.jpg");
+      
+      background-image: url("bouquet.jpg");
         color: #fff;
         margin: 0;
             font-family: "Roboto", sans-serif;
@@ -165,10 +165,13 @@ font-size: 65px;
 #tt{
     padding-bottom: 50px;
     font-size: 20px;
-    
-  
-
     margin: 0;
         
+}
+
+.Bouquet{
+padding-bottom: 50px;
+    font-size: 20px;
+    margin: 0;
 }
 
